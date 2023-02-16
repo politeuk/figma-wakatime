@@ -1,0 +1,15 @@
+{
+  "name": "WakaTime",
+  "id": "1208083271240741101",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    {
+      "name": "WakaTime API Key",
+      "command": "text"
+    }
+  ],
+  "editorType": [
+    "figma"
+  ]
+}
